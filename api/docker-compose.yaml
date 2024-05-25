@@ -18,3 +18,4 @@ services:
                 - gpu
     image: localai/localai:v2.14.0-cublas-cuda12-core
     command: tinyllama-chat
+
