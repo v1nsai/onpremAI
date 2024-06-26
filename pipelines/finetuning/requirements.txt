@@ -1,3 +1,7 @@
 PyPDF2
 apache-airflow
 transformers
+evaluate
+accelerate
+sklearn
+protobuf
