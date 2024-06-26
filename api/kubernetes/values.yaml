@@ -1,0 +1,12 @@
+deployment:
+  runtimeClassName: nvidia
+# models:
+#   list:
+#   - url: ""
+service:
+  type: LoadBalancer
+persistence:
+  models:
+    storageClass: microk8s-hostpath
+  output:
+    storageClass: microk8s-hostpath
