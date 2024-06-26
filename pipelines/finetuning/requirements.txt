@@ -3,5 +3,6 @@ apache-airflow
 transformers
 evaluate
 accelerate
-sklearn
+scikit-learn
 protobuf
+datasets
